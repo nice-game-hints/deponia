@@ -40,4 +40,4 @@ Yeah, bait. Maybe you could sacrifice one of your precious provisions for a good
 Combine the provisions with the mouse trap and use the combined wasabi-trap on the dark corner between the 1st and 2nd floor stairs.
 
 <!-- INTERNAL LINKS -->
-[provisions]: /01-tonis-apartment/01-provisions
+[provisions]: /01-tonis-apartment/01-provisions.md
