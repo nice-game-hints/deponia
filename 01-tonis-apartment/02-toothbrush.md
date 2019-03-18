@@ -9,7 +9,7 @@ The toothbrush is of course next to the washbasin on the 2nd floor. That's it, o
 Did you get it? Maybe you could trap it with something.
 
 # Trap?
-Like, a mouse trap. The closets are full of them.
+Like, a mouse trap. The closets are full of mice.
 
 # Closets?
 There is a closet in the bottom floor.
