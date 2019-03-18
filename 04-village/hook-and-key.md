@@ -9,4 +9,4 @@ Well, the first aid is in _Toni's_ house. And her shop has all kinds of stuff fo
 Yeah, she's going crazy with you. Maybe you could distract her by misbehaving in her precious shop.
 
 # Misbehaving
-Try to take the vouhcers from the table and let the situation escalate. You also got the key!
+Try to take the vouhcers from the table and let the situation escalate. You also got a key to the First Aid Kit!
