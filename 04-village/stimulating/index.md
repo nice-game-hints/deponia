@@ -1,6 +1,6 @@
 ---
-title: How to get extraordinary stimulating
-keywords: coffee powder, extraordinary stimulating
+title: How to get extraordinary stimulating (and syringe)
+keywords: coffee powder, extraordinary stimulating, syringe
 ---
 # What is this?
 Talk to Lonzo.
