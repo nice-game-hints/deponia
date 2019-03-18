@@ -16,7 +16,7 @@ Well, the powder is still inside the rocket.
 
 # How to get it out
 Maybe you could drill it out. [How to get the drill.][drill]
-Use the drill to the rocket and you have the powder.
+Use the drill to the rocket (kids, do not try this at home!) and you have the powder.
 
 <!-- INTERNAL LINKS -->
-[drill]: 04-village/drill.md
+[drill]: /04-village/drill.md
