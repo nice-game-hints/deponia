@@ -10,7 +10,7 @@ There is Lonzo's bar in the Alley.
 Talk to Lonzo until he comes up with the idea of brewing the espresso.
 You get the receipt of the coffee from him.
 
-# Ingrediens
+# Ingredients
 Here's the receipt for the best Goal-waking coffee:
  * [Revivitalizing Liquid][reviv]
  * [Energy-rich Water][energywater]
