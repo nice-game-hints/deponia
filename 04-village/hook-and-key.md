@@ -1,5 +1,5 @@
 ---
-title: How to get a hook and the key to the First Aid Kit
+title: How to get a hook
 keywords: hook, first aid kit, key
 ---
 # Where to get them?
