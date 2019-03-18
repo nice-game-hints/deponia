@@ -34,4 +34,14 @@ What would make the bull more mad than giving it a companion?
 Of course taking it away. Or hiding it. You know, bulls don't like the red color.
 
 # Hide it with..
-There is a red carpet on Lonzo's floor. Throw it over the bulletin board and take blood from the bull.
+There is a red carpet on Lonzo's floor. Throw it over the bulletin board. Now the bull's blood is ready.
+
+# How do I...
+How do you get blood out of a bull? Or from a human?
+
+# Syringe!
+That's right. Did you know Gizmo is also a doctor? He could have a syringe in his office.
+[How to get syringe.][syringe]
+
+<!-- INTERNAL LINKS -->
+[syringe]: /04-village/stimulating/index.md
