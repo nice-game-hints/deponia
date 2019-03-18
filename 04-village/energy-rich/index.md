@@ -3,7 +3,7 @@ title: How to get Energy-Rich Water
 keywords: energy rich water
 ---
 # Hints?
-Talk to Lonzo. Well, he directs you to Hannek.
+Talk to Lonzo (At the Alley). Well, he directs you to Hannek.
 
 # Hannek
 He hints you about the batteries they find from the trash. A battery contains "energy juice".
@@ -21,43 +21,26 @@ You should open it from the inside.
 Why does it have to be so hard, always. Use the lock pick!
 
 # Thanks...
-Okay, it didn't work. Lousy lock pick. Who would have the key for this trash?
+Okay, it didn't work, my bad. Lousy lock pick. [How to get into the car][car]
+Open the car door with the key.
 
-# Who got it here?
-Probably Hannek, as he collects all kind of trash.
+# Pop!
+There's the battery! After the lever, you pulled it, right?
 
-# Hannek, again
-Talk to Hannek about the trash. He mentions the car keys. Luckily he is bad with names.
+# It's stuck
+Well, you don't need the whole battery. Just the energy juice.
 
-# Didn't guess
-Maybe you shouldn't try to guess the name (especially only using your friends). Try to know it.
+# Get it out
+Any tool come to mind? [Get the drill][drill] and drill the battery open.
 
-# I don't know it
-Maybe it is written to the car. Like, behind the dirty windshield?
+# Energy juice!
+Great! Where would you catch it, though? Some kind of glass would be nice.
+[How to get clear water.][water]
 
-# It's so dirty
-Well, clean it up. Use a sponge and some water with cleaning chemicals in it.
+# Mix
+Catch the acid to the glass filled with water (from the liquor bottle).
 
-# Sponge...
-Isn't sponge something you could find in a bathroom? Or in a kitchen? Or a combination of those?
-
-# I know!
-There is a sponge at Wenzel's bathroom/kitchen, upstairs.
-
-# It's too dry
-Well, as I said, you need water... and detergent
-
-# Detergent!
-Go on...
-
-# To Toni's house!
-Good on you! Wet the sponge at the pot on Toni's Oven. (Those are some heavy notes still burning there)
-
-# Cleaning
-Clean the windshield and read the (stupid) name of the car's owner.
-
-# Off to Hannek
-Go get your key.
-
-# The questions
-Really? You must be kidding me? Okay okay... Sugarpuff, Pink, Ballet, cheez...
+<!-- INTERNAL LINKS -->
+[car]: /04-village/energy-rich/key-inside.md
+[drill]: /04-village/drill.md
+[water]: /04-village/clear-water.md
