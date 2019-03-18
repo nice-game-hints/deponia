@@ -66,5 +66,5 @@ Go and pull the lever again. Heh heh, poor Wenzel...
 Argh! But at least he took his place in the queue, finally!
 
 <!-- INTERNAL LINKS -->
-[hook]: /04-village/hook-and-key.md
+[hook]: /04-village/mayors-office/hook.md
 [drill]: /04-village/drill.md
