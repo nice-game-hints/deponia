@@ -33,4 +33,7 @@ Switch to the firefighter mode and tie the hatch to the pole with the handcuffs.
 Switch to the police mode.
 
 # The pole stays there!
-Correct! Go to the Front of Town Gate to climb up the pole.
+Correct!
+
+# Where does it go?
+Go to the Front of Town Gate to climb up the pole.
