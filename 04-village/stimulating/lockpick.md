@@ -24,7 +24,8 @@ something more _round_.
 
 # Something round?
 Take the foot fetters out of the Police Box (Police mode) and put them into the Fire Fighter's Cabinet (Firefighter mode).
-You have to pull and push the lever number of times to do this mentally challening switch.
+You have to pull and push the lever number of times to do this mentally challenging switch.
+When you succeed, the foot fetters bump the handcuffs to you.
 
 # Strike!
 Switch to the firefighter mode and tie the hatch to the pole with the handcuffs.
