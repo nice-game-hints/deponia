@@ -1,6 +1,6 @@
 ---
-title: How to brew awaking coffee
-keywords: goal, coffee, lonzo
+title: How to make awakening coffee
+keywords: goal, coffee, lonzo, gizmo
 ---
 # Goal does not wake up
 Did you talk to Gizmo? He is next to Goal in the Town Hall
@@ -14,7 +14,7 @@ There is Lonzo's bar in the Alley.
 
 # Lonzo's
 Talk to Lonzo until he comes up with the idea of brewing the espresso.
-You get the receipt for the coffee ingredients from him.
+You get the receipt of the coffee from him.
 
 # Ingrediens
 Here's the receipt for the best Goal-waking coffee:
