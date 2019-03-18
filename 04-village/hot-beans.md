@@ -22,3 +22,4 @@ He has the Emergency Station next to the bar.
 
 # Cool, a fire station?
 Yes, pull the lever all the way down to transfer it to a fire station mode. Grab the gloves.
+Use the gloves to protect your hand while harvesting the chili.
