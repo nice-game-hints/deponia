@@ -6,13 +6,13 @@ keywords: coffee powder, extraordinary stimulating, syringe
 Talk to Lonzo.
 
 # Okay
-There should be some stimulant at Doctor Gizmo's office. Turn the lever all the way up, again.
+There should be some stimulant and syringe at Doctor Gizmo's office. Turn the lever all the way up, again.
 
 # Can't see it
-Maybe it is behind locks.
+Maybe they are behind locks.
 
 # Maybe
-It is in the Doctor's Cabinet. But it is locked! Mistrust everywhere!
+They are in the Doctor's Cabinet. But it is locked! Mistrust everywhere!
 
 # How do I open it?
 You won't probably get the key from Gizmo. Maybe you could access it in _illegal_ ways?
@@ -20,6 +20,9 @@ You won't probably get the key from Gizmo. Maybe you could access it in _illegal
 # Illegal?
 Yes, there is a lock pick in Police Gizmo's office. Turn the lever in the middle position.
 [Getting the lock pick][lockpick]
+
+# I have it!
+Change to Doctor's office mode and pick the lock.
 
 <!-- INTERNAL LINKS -->
 [lockpick]: /04-village/stimulating/lockpick.md
