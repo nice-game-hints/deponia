@@ -20,18 +20,18 @@ Here's the receipt for the best Goal-waking coffee:
    * [Black Powder][blackpowder]
    * [Extraordinarily Stimulating][stimul]
  
- # Phew, got them all!
- Insert the Coffee Powder (it has to be grinded!) into the machine. Mix other stuff
- (Clear Water, Revivitalizing Liquid and Energy-Rich Water) into the glass and pour it in.
+# Phew, got them all!
+Insert the Coffee Powder (it has to be grinded!) into the machine. Mix other stuff
+(Clear Water, Revivitalizing Liquid and Energy-Rich Water) into the glass and pour it in.
  
- # Am I dead?
- No, but you have the coffee!
+# Am I dead?
+No, but you have the coffee!
  
- <!-- INTERNAL LINKS -->
- [reviv]: /04-village/revivitalizing-liquid.md
- [energywater]: /04-village/energy-rich/index.md
- [water]: /04-village/clear-water.md
- [coffeepowder]: /04-village/coffee-powder.md
- [hotbeans]: /04-village/hot-beans.md
- [blackpowder]: /04-village/black-powder.md
- [stimul]: /04-village/stimulating/index.md
+<!-- INTERNAL LINKS -->
+[reviv]: /04-village/revivitalizing-liquid.md
+[energywater]: /04-village/energy-rich/index.md
+[water]: /04-village/clear-water.md
+[coffeepowder]: /04-village/coffee-powder.md
+[hotbeans]: /04-village/hot-beans.md
+[blackpowder]: /04-village/black-powder.md
+[stimul]: /04-village/stimulating/index.md
