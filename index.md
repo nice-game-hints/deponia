@@ -1,6 +1,7 @@
 ---
 title: Deponia
 keywords: deponia,guide
+author: Juho Rutila
 ---
 
-Welcome to Deponia hints. You start from Toni's Apartment.
+Welcome to Deponia hints.
