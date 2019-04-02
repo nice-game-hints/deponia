@@ -19,14 +19,14 @@ Here's the receipt for the best Goal-waking coffee:
    * [Hot beans][hotbeans]
    * [Black Powder][blackpowder]
    * [Extraordinarily Stimulating][stimul]
- 
+
 # Phew, got them all!
 Insert the Coffee Powder (it has to be grinded!) into the machine. Mix other stuff
 (Clear Water, Revivitalizing Liquid and Energy-Rich Water) into the glass and pour it in.
- 
+
 # Am I dead?
 No, but you have the coffee!
- 
+
 <!-- INTERNAL LINKS -->
 [reviv]: /04-village/revivitalizing-liquid.md
 [energywater]: /04-village/energy-rich/index.md
