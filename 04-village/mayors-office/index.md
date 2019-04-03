@@ -45,13 +45,15 @@ He said the _roofer_ has started to make hats. That is weird.
 Should the hat match the roof then?
 
 # Umm.. don't get it
-Place the magnets to houses (yellow dots) with roofs matching the three guys' hats. The line is free!
+Place the magnets to houses (yellow dots) with roofs matching the three guys' hats and ring the bell.
+![Explosion map](media/exlplosion_map.png)
+The line is free!
 
 # But 66 is still too much
 Check out the floor
 
 # Oh.. 63!
-There is a 63 number on the floor. Pick it up and off to Lotti!
+There is a number 63 on the floor. Pick it up and off to Lotti!
 
 # Wenzel!
 That sleazeball! [How to get Wenzel to Mayor's office][wenzel]
