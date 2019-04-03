@@ -46,7 +46,7 @@ Should the hat match the roof then?
 
 # Umm.. don't get it
 Place the magnets to houses (yellow dots) with roofs matching the three guys' hats and ring the bell.
-![Explosion map](media/exlplosion_map.png)
+![Explosion map](exlplosion_map.jpg)
 The line is free!
 
 # But 66 is still too much
