@@ -2,7 +2,7 @@
 title: How to get rid of the Postbot?
 keywords: radio, post office, postbot
 ---
-Radio is in the [Post Office](/05-village/010-post-office.md). There is a Postbot blocking your way.
+Radio is in the [Post Office](/05-village/010-get-to-post-office.md). There is a Postbot blocking your way.
 
 # Try to bypass it
 Error! Error! Talk to the Postbot.
