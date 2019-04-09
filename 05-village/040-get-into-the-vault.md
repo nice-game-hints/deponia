@@ -3,7 +3,7 @@ title: Getting into the Vault
 keywords: vault, post office
 ---
 
-After you have [got rid of the Postbot](/05-village/020-postbot.md), you have access to the Clock Face.
+After you have [got rid of the Postbot](/05-village/020-postbot/index.md), you have access to the Clock Face.
 
 # Under the note
 Yes, remove the note first from the door.
