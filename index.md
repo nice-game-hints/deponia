@@ -2,6 +2,7 @@
 title: Deponia
 keywords: deponia,guide
 author: Juho Rutila
+praise: https://www.buymeacoffee.com/jrutila
 ---
 
 Welcome to spoiler free hints for Deponia!
