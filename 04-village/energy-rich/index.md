@@ -21,7 +21,7 @@ You should open it from the inside.
 Why does it have to be so hard, always. Use the lock pick!
 
 # Thanks...
-Okay, it didn't work, my bad. Lousy lock pick. [How to get into the car][car]
+Okay, it didn't work, my bad. Lousy lock pick. [How to get into the car](/04-village/energy-rich/key-inside.md)
 Open the car door with the key.
 
 # Pop!
@@ -31,16 +31,11 @@ There's the battery! After the lever, you pulled it, right?
 Well, you don't need the whole battery. Just the energy juice.
 
 # Get it out
-Any tool come to mind? [Get the drill][drill] and drill the battery open.
+Any tool come to mind? [Get the drill](/04-village/drill.md) and drill the battery open.
 
 # Energy juice!
 Great! Where would you catch it, though? Some kind of glass would be nice.
-[How to get clear water.][water]
+[How to get clear water.](/04-village/clear-water.md)
 
 # Mix
 Catch the acid to the glass filled with water (from the liquor bottle).
-
-<!-- INTERNAL LINKS -->
-[car]: /04-village/energy-rich/key-inside.md
-[drill]: /04-village/drill.md
-[water]: /04-village/clear-water.md
