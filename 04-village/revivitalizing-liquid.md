@@ -41,7 +41,4 @@ How do you get blood out of a bull? Or from a human?
 
 # Syringe!
 That's right. Did you know Gizmo is also a doctor? He could have a syringe in his office.
-[How to get syringe.][syringe]
-
-<!-- INTERNAL LINKS -->
-[syringe]: /04-village/stimulating/index.md
+[How to get syringe.](stimulating/index.md)

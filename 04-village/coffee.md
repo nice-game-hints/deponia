@@ -12,13 +12,13 @@ You get the receipt of the coffee from him.
 
 # Ingredients
 Here's the receipt for the best Goal-waking coffee:
- * [Revivitalizing Liquid][reviv]
- * [Energy-rich Water][energywater]
- * [Clear Water][water]
- * [Coffee Powder][coffeepowder]
-   * [Hot beans][hotbeans]
-   * [Black Powder][blackpowder]
-   * [Extraordinarily Stimulating][stimul]
+ * [Revivitalizing Liquid](revivitalizing-liquid.md)
+ * [Energy-rich Water](energy-rich/index.md)
+ * [Clear Water](clear-water.md)
+ * [Coffee Powder](coffee-powder.md)
+   * [Hot beans](hot-beans.md)
+   * [Black Powder](black-powder.md)
+   * [Extraordinarily Stimulating](stimulating/index.md)
 
 # Phew, got them all!
 Insert the Coffee Powder (it has to be grinded!) into the machine. Mix other stuff
@@ -26,12 +26,3 @@ Insert the Coffee Powder (it has to be grinded!) into the machine. Mix other stu
 
 # Am I dead?
 No, but you have the coffee!
-
-<!-- INTERNAL LINKS -->
-[reviv]: /04-village/revivitalizing-liquid.md
-[energywater]: /04-village/energy-rich/index.md
-[water]: /04-village/clear-water.md
-[coffeepowder]: /04-village/coffee-powder.md
-[hotbeans]: /04-village/hot-beans.md
-[blackpowder]: /04-village/black-powder.md
-[stimul]: /04-village/stimulating/index.md

@@ -58,7 +58,4 @@ Check out the floor
 There is a number 63 on the floor. Pick it up and off to Lotti!
 
 # Wenzel!
-That sleazeball! [How to get Wenzel to Mayor's office][wenzel]
-
-<!-- INTERNAL LINKS -->
-[wenzel]: /04-village/mayors-office/wenzel.md
+That sleazeball! [How to get Wenzel to Mayor's office](wenzel.md)

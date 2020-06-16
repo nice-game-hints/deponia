@@ -6,7 +6,7 @@ keywords: clear water
 In Deponia, only the rich and powerful have clear water.
 
 # Like?
-Like mayors! [How to get to mayor's office][mayor]
+Like mayors! [How to get to mayor's office](mayors-office/index.md)
 
 # Im in!
 Finally! Any signs of clear water? Or any water?
@@ -35,6 +35,3 @@ Have a drink! You deserve it. Don't be a barbarian, use a glass.
 
 # A glass
 Pour the booze into the glass.
-
-<!-- INTERNAL LINKS -->
-[mayor]: /04-village/mayors-office/index.md

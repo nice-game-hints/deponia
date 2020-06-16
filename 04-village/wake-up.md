@@ -7,7 +7,7 @@ Did you talk to Gizmo? He is next to Goal in the Town Hall
 
 # Yes
 He mentioned something to wake her up. Really strong coffee ought to do it!
-[How to make awakening coffee][coffee]
+[How to make awakening coffee](coffee.md)
 
 # I have the coffee
 Off you go. Treat her!
@@ -57,7 +57,3 @@ There is a funnel in Toni's backyard. It broke from your escape pod.
 
 # Done
 Put the funnel on Goal and pour in the coffee.
-
-
-<!-- INTERNAL LINKS -->
-[coffee]: /04-village/coffee.md

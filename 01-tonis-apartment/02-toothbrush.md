@@ -34,10 +34,7 @@ You can use the mouse trap to catch that cocky toothbrush! You just need a bait.
 
 # Wait! Bait?
 Yeah, bait. Maybe you could sacrifice one of your precious provisions for a good cause.
-[How to get the provisions?][provisions]
+[How to get the provisions?](01-provisions.md)
 
 # I have the provisions
 Combine the provisions with the mouse trap and use the combined wasabi-trap on the dark corner between the 1st and 2nd floor stairs.
-
-<!-- INTERNAL LINKS -->
-[provisions]: /01-tonis-apartment/01-provisions.md

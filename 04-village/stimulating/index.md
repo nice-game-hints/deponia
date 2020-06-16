@@ -19,10 +19,7 @@ You won't probably get the key from Gizmo. Maybe you could access it in _illegal
 
 # Illegal?
 Yes, there is a lock pick in Police Gizmo's office. Turn the lever in the middle position.
-[Getting the lock pick][lockpick]
+[Getting the lock pick](lockpick.md)
 
 # I have it!
 Change to Doctor's office mode and pick the lock.
-
-<!-- INTERNAL LINKS -->
-[lockpick]: /04-village/stimulating/lockpick.md

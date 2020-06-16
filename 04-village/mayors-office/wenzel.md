@@ -35,7 +35,7 @@ It is. If you let go of it, it will fly away.
 
 # That's true
 Some kind of hook would attach the balloon to the lid so it won't fly away.
-[How to get the hook.][hook]
+[How to get the hook.](hook.md)
 
 # Hooked! Myself that is
 Combine the hook and the balloon. The impromptu devise is ready!
@@ -57,14 +57,10 @@ Yes, so, to get the basement to flood with water.
 Usually the blumping does not work at Deponia. Maybe you could "fix" the pipe in the basement.
 
 # Like?
-Like drilling a hole into the pipe. [How to get the drill.][drill]
+Like drilling a hole into the pipe. [How to get the drill.](../drill.md)
 
 # No water?
 Go and pull the lever again. Heh heh, poor Wenzel...
 
 # Bloody Wenzel!
 Argh! But at least he took his place in the queue, finally!
-
-<!-- INTERNAL LINKS -->
-[hook]: /04-village/mayors-office/hook.md
-[drill]: /04-village/drill.md
