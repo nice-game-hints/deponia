@@ -12,7 +12,7 @@ And use the crane to lift Goal into the Bike Mine.
 You are too tense. It is a challenging situation. As Rufus said, you should ask help from Doc about your fidgety challenges. Ask about challenges and then about fidgety.
 
 # Fixating
-Doc is fixating and giving you instructions.
+Doc is fixating and giving you instructions
  - [Lodge a feet behind you](062-feet.md)
  - Fixate on a point ^[Just watch the Horizon]
  - [Tell the world who you are](063-world.md)
