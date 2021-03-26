@@ -1,65 +1,74 @@
 ---
 title: Wenzel!
-keywords: wenzel, mayors office
+keywords: wenzel, mayors office, water, vein
 ---
-# Wenzel
+
+You would need to get Wenzel into Mayor's office.
+
+# Where is he?
 Wenzel's house is in the bottom
 
 # He's lazy
-Yeah, he would like to bring water to the Mayor. He thinks he might have a water vein in his basement.
+Yeah, Wenzel would like to bring water to the Mayor. He thinks he might have a water vein in his basement.
 
 # But there isn't
-But there seems to be water reservoir on _top_ of his apartment. You could pour down water through the chimney.
+But there seems to be water reservoir on _top_ of Wenzel's apartment.
 
-# I tried
+## Go on...
+You could pour down water into Wenzel's chimney.
+
+# I tried to move the pipe on top of the chimney
 Yes, the pipe does not stop on top of the chimney. And there is a lid.
-Maybe you could devise an impromptu lid-opener and pipe-stoppener.
+Maybe you could devise an impromptu _lid-opener and pipe-stoppener_.
 
 # Lid-opener and pipe.. what?
-Fill the lid open with something and at the same time stop the pipe. Easy.
+Pull the chimney lid open with something and at the same time stop the pipe on top of it. Easy.
 
-# With what?
-For lifting you could use for example a balloon. There was a feast at the Town hall some time ago.
+# How do I stop the pipe and open the lid?
+For lifting you could use something floating. There was a feast at the Town hall some time ago.
 
-# Balloons
+## Tell me what should I use to stop the pipe
 Get the balloons from the Assembly Hall behind the wooden door. Use the doorknob.
 
-# And then?
+# I have a balloon
 An empty balloon does not lift anything.
 
-# I should fill it
+# I should fill the balloon
+Balloons are filled with gas.
+
+## Where is gas for the balloon?
 There is laughing gas in Doctor Gizmo's office. Pull the lever most up and fill the balloon with laughing gas.
 
-# Nice balloon
-It is. If you let go of it, it will fly away.
+# I have that nice balloon
+It is. If you let go of the balloon, it will fly away and most definitely won't stop the pipe and open the lid.
 
-# That's true
-Some kind of hook would attach the balloon to the lid so it won't fly away.
-[How to get the hook.](hook.md)
+## What should I use to prevent the balloon from escaping?
+Some kind of [hook](hook.md) would attach the balloon to the lid so it won't fly away.
 
-# Hooked! Myself that is
-Combine the hook and the balloon. The impromptu devise is ready!
+# I have a hook
+Combine the hook and the balloon. The impromptu devise to keep the lid open and stop the pipe is ready!
 
 # What next?
-Now, to open the lid of the chimney.
+Now, use the balloon to open the lid of the chimney. You would have to do it beneath. 
 
-# Chimney
-You would have to do it beneath. Wenzel does all his cookings in his bathroom.
+## Tell me how to use the balloon
+Wenzel does all his cookings in his bathroom.
 There is a furnace. Put the balloon (and the hook) into the furnace.
+It will raise the lid and the balloon is there to stop the pipe.
 
-# Nice!
+# Nice! What next?
 Go kick the pipe and pull the lever to get the (dirty) water flowing into the chimney.
 
 # The draining does its job
-Yes, so, to get the basement to flood with water.
+Yes, the water is not staying in the basement where it should.
 
-# Some blumping work
+# Any hints on that?
 Usually the blumping does not work at Deponia. Maybe you could "fix" the pipe in the basement.
 
-# Like?
-Like drilling a hole into the pipe. [How to get the drill.](../drill.md)
+## Like?
+Like drilling a hole into the pipe. [Go get a drill.](../drill.md)
 
-# No water?
+# I drilled the pipe but still no water
 Go and pull the lever again. Heh heh, poor Wenzel...
 
 # Bloody Wenzel!

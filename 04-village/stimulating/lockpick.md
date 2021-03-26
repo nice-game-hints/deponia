@@ -1,40 +1,37 @@
 ---
-title: How to pick the lock
+title: How to get into the cell
 keywords: gizmo, doctor, police, lockpick
 ---
-# It is in the cell!
+
+There is a lock pick in Police Gizmo's ^[ Turn the lever in the middle position. ] office.
+
+# The lock pick is inside the cell!
 Getting through the cell grating without a key (or a lock pick) is impossible.
-Hmm.. but the lock pick is inside the cell. Is there any other way into the cell?
+Is there any other way into the cell?
 
-# From the bottom?
-Yes, wouldn't it be nice to have the firefighter pole (Firefighter mode) present also in the cell mode?
+## What other way?
+Wouldn't it be nice to have the firefighter pole ([Firefighter mode](# "Lever bottom position")) present also in the cell mode?
 
-# But how?
-The floor opens and a hatch comes out at the right. Could you jam it somehow?
+# But how to keep the pole while switching modes?
+Notice what happens when you change the mode between Firefighter mode and other modes.
 
-# With what, exactly?
-You could use the handcuffs that hang, symbolocically, on some kind of scale. (Police mode)
+## What?
+The floor opens with the pole, and _a hatch comes out at the right_. See?
 
-# Tilt the scale
-There seems to be a fire extinguisher ready to drop into the scale. Except it is too big.
+# What to do to the hatch?
+You should tie that hatch to something to prevent it from closing. It will control the pole.
 
-# Something else
-Remove the fire extinguisher from the Fire Fighter's Cabinet (Firefighter mode) and replace it with
-something more _round_.
+## Prevent the pole hatch with what, exactly?
+You could use the [handcuffs](../handcuffs.md) that hang, symbolocically, on some kind of scale. (Police mode)
 
-# Something round?
-Take the foot fetters out of the Police Box (Police mode) and put them into the Fire Fighter's Cabinet (Firefighter mode).
-You have to pull and push the lever number of times to do this mentally challenging switch.
-When you succeed, the foot fetters bump the handcuffs to you.
+# I have the handcuffs
+Switch the office to firefighter mode and tie the pole hatch on the right to the pole with the handcuffs.
 
-# Strike!
-Switch to the firefighter mode and tie the hatch to the pole with the handcuffs.
-
-# And?
+# And then?
 Switch to the police mode.
 
 # The pole stays there!
 Correct!
 
-# Where does it go?
-Go to the Front of Town Gate to climb up the pole.
+## Where does it go?
+Go to the Front of Town Gate to climb up the pole into the cell.

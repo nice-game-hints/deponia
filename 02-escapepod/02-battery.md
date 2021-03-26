@@ -2,13 +2,16 @@
 title: Fitting the battery
 keywords: escape pod, battery, mailbox
 ---
-# The battery
+
+The battery should be removed from the pod.
+
+# What to do?
 Could you sit on a battery? Like, remove the seat. That's useless anyway.
 
-# But it's screwed tight
+# But the seat is screwed tight
 Look around. Any tools that could help you?
 
-# I don't know
+## Tell me how to remove the seat
 There is a wrench next to the harpoon. Go grab it and unscrew the seat.
 
 # No seat, no... seat
@@ -18,13 +21,13 @@ Something you could sit on.
 # Don't remember seeing anything like that
 Here's an (actual) hint. The front door at Tori's apartment is now open.
 
-# I see...
-You see. You see the mailbox, right? It is _screwed_ thight.
+## What there?
+You see the mailbox, right? It is _screwed_ thight.
 
 # It is
 Unscrew the mailbox in front of Tori's apartment with the wrench.
 
 # A seat!
-Yes, the mailbox acts as a seat. Go and attach it to the base plate and stick the battery into the mailbox.
+Yes, the mailbox can act as a seat. Go and attach it to the base plate and stick the battery into the mailbox.
 
 You pod is ready to launch!

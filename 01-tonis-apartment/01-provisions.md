@@ -21,5 +21,8 @@ There is an oil can in Rufus' room bench.
 # They won't fit in
 Well, obviously you can't fill the can full of oil with peas. Get rid of the oil first.
 
-## Where to empty the can?
+# Where?
+Where _wouldn't_ nature lover like you pour oil into?
+
+## Tell me where to empty the can?
 Just pour the oil to one of the sinks and use the empty oil can on the sofa.
