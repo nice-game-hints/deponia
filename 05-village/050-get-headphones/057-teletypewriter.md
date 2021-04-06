@@ -11,14 +11,14 @@ Did you look at the writer for hints?
 # I did
 It looked like a _cat_ would be jumping over the writer.
 
-# Cat
+## Where would I get a cat?
 There are cats in the Post Office.
 
-# They are working
+# The cats are working
 Yeah, the two are stationed. Is there a replacement?
 
-# Replacement cat
+## I need a replacement cat
 Open the Replacement Cat's Hatch and grap the replacement cats from the replacement cat's hatch.
 
-# Catwork
-Put the cat into the teletypewriter
+# I have the replacement cat
+Put the cat on the teletypewriter.

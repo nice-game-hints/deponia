@@ -14,5 +14,5 @@ You should press it over and over again.
 # Me?
 Well, or someone, or something, else.
 
-# Something
+## What should I use to press the communicator over and over?
 There is a nodding bird in the Vault at the Post Office. Get it and put it on the Communicator to reserve that line.

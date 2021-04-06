@@ -36,7 +36,7 @@ Of course taking the lady bull picture away. Or _hiding it_. You know, bulls don
 ## What do I hide the lady bull picture with?
 There is a red carpet on Lonzo's floor. Throw it over the bulletin board. Now the bull's blood is ready.
 
-# How do I get the boold out of the bull?
+# How do I get the blood out of the bull?
 How do you get blood out of a bull? Or from a human?
 
 ## Tell me what

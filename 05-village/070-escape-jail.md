@@ -21,7 +21,7 @@ Well, you can try, but it won't work. What else firefighters do than put out fir
 # I dunno?
 Well, they save animals from trouble.
 
-# Animal
+## What animal?
 Like cats from the trees. Send your replacement cat to the tree.
 
 # Freedom!

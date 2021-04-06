@@ -1,59 +1,49 @@
 ---
 title: How to wake Goal up
-keywords: wake, goal, coffee
+keywords: wake, goal, coffee, town, hall
 ---
+
+Goal is sleeping at the Town Hall.
+
 # Goal does not wake up
 Did you talk to Gizmo? He is next to Goal in the Town Hall
 
-# Yes
-He mentioned something to wake her up. Really strong coffee ought to do it!
-[How to make awakening coffee](coffee.md)
+# I talked to Gizmo
+He mentioned something to wake her up. Really [strong coffee](coffee.md) ought to do it!
 
-# I have the coffee
-Off you go. Treat her!
+# I have the awakening coffee
+Off you go. Treat her with the coffee!
 
-# Gizmo!
+# Gizmo is blocking me!
 As long as Dr. Gizmo is next to her he won't let you "medicate" her.
 
-# Doctor...
+# How to get rid of Gizmo?
 Maybe if you would get him to do some of his other duties and distract him.
 
-# Fire!
-Yes, tell him there's fire.
+# Fire?
+Yes, you could tell him there's fire somewhere.
 
-# No dice
-He doesn't believe you. Maybe you should.. hmm..
+# He doesn't believe it
+Maybe you should.. actually...
 
-# Fire!
-Cause a fire! Nice thinking. What's that there in the back? Where the balloons were.
+## Fire!
+Cause an actual fire! Nice thinking. What's that there in the back? Where the balloons were.
 
 # Cardboard
-You pyromaniac! Torch it!
+Set the cardboard on fire. Use your torch ^[ It is in Toni's backyard. ].
 
-# My torch?
-Yeah, I think you left it at Toni's backyard.
-
-# My torch!
-Fire! Actual fire! Gizmo to the rescue! Time for coffee.
-
-# Mayor!
-Now the mayor is giving you a hard time. Maybe you could fool the Mayor to think that you are a doctor.
+# Gizmo is in firefighting mode
+But now the mayor is giving you a hard time. Maybe you could fool the Mayor to think that you are a doctor.
 Grab the stetoscope.
 
 # Grabbed!
-Uh oh! Gizmo went full police mode. Quick, frame someone!
+Uh oh! Gizmo went full police mode. Quick, frame someone! Frame the mayor.
 
-# Untouchable
-Well done. Gizmo will take the Mayor to the cell.
-
-# Umm.. no?
-Oh yeah. Well they are arguing and you can give coffee to Goal.
+# They are arguing
+Oh yeah. While they are arguing and you can give coffee to Goal.
 
 # It will spill everywhere
-Yes, pouring coffee into someone's mouth while they are sleeping is hard, indeed. This calls for a funnel!
+Yes, pouring coffee into someone's mouth while they are sleeping is hard, indeed. This calls for a funnel ^[ There is a funnel in Toni's backyard. It broke from your escape pod. ].
 
-# Funnel?
-There is a funnel in Toni's backyard. It broke from your escape pod.
-
-# Done
+# I have the funnel
 Put the funnel on Goal and pour in the coffee.

@@ -8,13 +8,13 @@ Remember that the speed comes from the orange cat and the white cat licks the st
 # So...
 You want the light package to be marked as level three package.
 
-# More stamps...
+# I need more stamps...
 Make the white cat faster.
 
 # With?
 Espresso, of course.
 
-# And the orange cat
+# And the orange cat?
 Make it slower.
 
 # With...

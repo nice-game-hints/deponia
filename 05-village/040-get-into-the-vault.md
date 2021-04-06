@@ -20,5 +20,5 @@ Take the note from you inventory and position it above the mailboxes.
 # Numbers
 And read the numbers. First hole, first number. Second hole, third number, etc...
 
-# Help me
+## Help me
 So, the key is 3,6,4,9.
