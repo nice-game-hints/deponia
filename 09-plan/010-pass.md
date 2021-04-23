@@ -11,8 +11,8 @@ Yes, swim over the pool. Actually, you would need to dive through it.
 # Diving equipment
 Finding diving equipment here would be like finding a needle in a haystack.
 
-# Yeah!
-Or hay straw in a needle stack!
+# Yea it is!
+Or a _hay straw_ in a needle stack!
 
-# Yeah.. What?
+## Yea.. What?
 Go search the needle stack in front of the cable chute. Use the straw on the pool.

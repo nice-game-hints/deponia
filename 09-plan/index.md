@@ -8,16 +8,16 @@ You have a perfect plan to get to Elysium with Goal.
 # Organons
 Look at the Crane Lever. Perfect plan...
 
-# But Organons
-Oh yeah, they are blockin you. Maybe you could go [pass them](010-pass.md).
+# But Organons!
+Oh yeah, they are blocking you. Maybe you could go [pass them](010-pass.md).
 
-# Passed!
+# I passed the Organons!
 [Get on the top bridge.](020-carwreck.md)
 
-# On the bridge
+# I am at the bridge
 [Get on the Crane](030-crane.md), then.
 
-# Dealt with the Organons!
+# I dealt with the Organons!
 Nice, off you go with Goal!
 
 # Cletus
