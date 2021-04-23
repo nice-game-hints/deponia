@@ -5,14 +5,14 @@ keywords: flag, cape, cletus
 
 Cletus wears an ugly cape.
 
-# Cape
+# Where to start?
 What would work as a cape?
 
 # I dunno
-Try harder!
+Try harder! It is there hanging out for grabs!
 
-# I'm lazy
-Fine, go to the platform, pull the lever and grab the white flag. Cheez.
+## Tell me
+Fine, go to the platform, pull the lever and grab the white flag.
 
 # And then?
-Combine the with with the [Greasy Hairdo](010-hairdo.md) and [Stiff Collar](030-collar.md) to finish the costume.
+Combine the flag with with the [greasy hairdo](010-hairdo.md) and [stiff collar](030-collar.md) to finish the costume.

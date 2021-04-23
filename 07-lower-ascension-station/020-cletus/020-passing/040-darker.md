@@ -5,32 +5,29 @@ keywords: argus, slingshot, lamp, dark
 
 You should make it darker to get pass Argus.
 
-# The lamp
-Yes, shut the lamp off
+# The lamp is giving the light
+Yes, shut down the lamp
 
-# How?
-Maybe you could break it somehow. Look at the floor.
+# How do I shut the lamp off?
+Maybe you could break it somehow. Look at the floor. ^[ There is a pebble on the floor. ]
 
-# Pebble!
-Yes, take a pebble and stone it!
+# I need a weapon to shoow the lamp
+What weapon could be used to shoot pebbles? Use your engineering skills!
 
-# I need a weapon
-What weapon could it be? Use your engineering skills!
-
-# Weapon
+# What weapon to use?
 Kids use slingshots to fire pebbles.
 
-# Slingshot
+## How do I make a slingshot?
 There is an Embellishment on the top platform railing. That looks like a slingshot-ey piece.
 
-# The sling
-You need something elastic to complete the slingshot.
+# I need a sling
+You need something _elastic_ to complete the slingshot.
 
-# Elastic
-You chewed something elastic earlier.
+# What is elastic enough for the slingshot sling?
+You _chewed_ something elastic earlier.
 
-# Chewing
+## Tell me what to use for the slingshot
 Pick the chewing gum under the mosaic and combine it with the y-shaped piece. You have a slingshot.
 
-# Use it
-Combine the pebble with the slingshot and shoot the lamp off.
+# What next?
+Combine the pebble, from the ground, with the slingshot and shoot the lamp off.
