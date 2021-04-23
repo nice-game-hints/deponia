@@ -8,11 +8,11 @@ Part of the meditation is to tell the World who you are.
 # Who am I?
 When you look at the horizon you see all those letters.
 
-# Which ones to pick?
+# Which letters to pick from the horizon?
 Did you notice how Doc did it? RIVER!
 
 # No, I didn't
-He picked from bottom right, then up, then far left up and then down.
+He picked the letters from bottom right, then up, then far left up and then down.
 
-# Can't
+## Tell me what letters to use
 It's PUPUP (what does it mean, anyway?)

@@ -1,27 +1,27 @@
 ---
 title: How to clean the mirror?
-keywords: mirror, tunnel, booze, clean
+keywords: mirror, tunnel, booze, clean, bottle, cloth
 ---
 
-The mirror is dirty. Clean it!
+The mirror is not reflecting the light because it is dirty. Clean it!
 
-# With?
-Toni has probably trained you. You need some cloth and cleaning liquid.
+# How to clean the mirror?
+Toni has probably trained you well. You need some cloth and cleaning liquid.
 
-# Liquid
+# Where do I get cleaning liquid?
 Booze would be quite good for removing dirt.
 
-# Booze!
+## Where do I find booze?
 Doc has the booze bottle. He promises a sip for you.
 
-# Tastes good
-Yes, and you left a surprise for him to the bottle. Go clean it, once!
+# The booze tastes good
+Yes, and you left a surprise for him to the bottle. Clean the bottle.
 
-# Cleaning...
-There is a Cloth in the Control Room. That would suffice.
+## What should I use to clean the bottle?
+There is a Cloth in the Control Room. That should suffice.
 
-# Clean
-The bottle is clean and the cloth is soaked with alcohol.
+# I have the cloth
+Use it on the bottle. The bottle is now clean and the cloth is soaked with alcohol.
 
-# Hey...
-You can now clean the mirror with the soaked cloth.
+## What next?
+You were cleaning the mirror, remember? You can now clean the mirror with the soaked cloth.

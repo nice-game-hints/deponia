@@ -8,17 +8,17 @@ Final phase of the meditation is to take a sip from a flask.
 # Doc has a flask
 Yes, but he does not give you it. Maybe you could have your own bottle. You are a handyman after all.
 
-# Bottle
-Don't know if you noticed, but there was a bottle in the Outer Turn.
+## Where do I find a bottle?
+Don't know if you noticed, but there was a bottle at the Outer Turn.
 
-# It's empty
-Fill it from Doc's flask
+# The bottle is empty
+You should fill the bottle. ^[ You can fill the bottle from Doc's flask. ]
 
-# He doesn't let me
-If you could get him to a position and do it *sneakily*.
+# Tell me how to fill the bottle
+You can fill the bottle from Doc's flask. If you could get him to a certain position and fill the bottle *sneakily*.
 
-# Sneak
+## Tell me how to fill the bottle
 Talk to Doc and ask about meditation. When he is fixating with his leg behind his head just use the Empty Bottle to the Booze flask. Tada!
 
-# Booze
-Drink it only as the last step in the crane!
+# I now have booze in the flask
+Drink it only as [the last step](index.md) in the crane!

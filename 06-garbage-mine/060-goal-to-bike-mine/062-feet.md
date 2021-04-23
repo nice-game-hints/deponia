@@ -3,16 +3,16 @@ title: Lodge a feet behind your head
 keywords: signal man, feet, meditating
 ---
 
-We both know Rufus is not *that* flexible handyman!
+For relaxation, Doc instructed Rufus to lodge a feet behind his head. We both know Rufus is not *that* flexible handyman!
 
-# *A* feet behind your head
-It doesn't have to be your feet, really
+# Where to get *a* feet behind his head?
+It doesn't really have to be Rufus' feet, you know.
 
-# Who's then
+# Who's feet should I use then?
 Who could give you a leg?
 
-# Someone who doesn't need it
+## Tell me whod doesn't need their leg anymore
 The skeleton at the Viaduct doesn't need his leg anymore. Go grab his leg.
 
-# It is mine
+## I took the leg from the skeleton
 When you sit in the crane put the leg behind the seat.

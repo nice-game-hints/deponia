@@ -3,13 +3,13 @@ title: How to get to the upper level
 keywords: tunnel, upper level
 ---
 
-Rufus can't use telekinetic powers.
+Rufus can't use telekinetic powers on the switch.
 
-# How to get there?
+# How to get to the upper level?
 Have you driven around already?
 
-# With what?
-[The Mine Bike](040-mine-bike.md) of course.
+## Driven with what?
+[The mine bike](040-mine-bike.md), of course.
 
-# Ride
-If you have driven once you should get up with the switch.
+# I can ride the mine bike
+If you have driven once you should get up and use the switch.
