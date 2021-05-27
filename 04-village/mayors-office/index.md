@@ -50,6 +50,9 @@ Should the _hat match the roof_ then?
 ## Umm.. don't get it
 Place the magnets in the detonation plan to houses (yellow dots) with roofs matching the three guys' hats and ring the bell.
 
+Before you proceed with setting the magnets: **there is a bug in the detonation plan that can screw your game!** Save your game before touching the detonation plan and read more [here](../magnet-bug.md).
+
+## Show me the correct positions for the markers
 ![Explosion map](explosion_map.jpg)
 
 # I did it!
